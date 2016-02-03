@@ -6,6 +6,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
+	background-position: 50%;
 }
 
 .header h1 {
@@ -13,7 +14,7 @@ body {
 	font-weight: lighter;
 	font-size: 80px;
 	text-align: center;
-	margin-top: 200px;
+	margin-top: 125px;
 	margin-bottom: 0px;
 }
 
